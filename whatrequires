@@ -1,25 +1,6 @@
 # This file contains recursive sources that require this package
-R-AER
-R-DendSer
 R-arm
-R-betareg
 R-brms
-R-broom
-R-caret
-R-clue
-R-dendextend
-R-fpc
-R-geometry
+R-car
 R-magic
-R-mi
-R-modelr
-R-mvoutlier
-R-partykit
-R-pdfCluster
-R-recipes
-R-robCompositions
-R-sem
-R-seriation
 R-spatstat
-R-systemfit
-R-tidyverse
