@@ -1,6 +1,11 @@
 # This file contains recursive sources that require this package
+R-VIM
 R-arm
 R-brms
 R-car
+R-drc
+R-dynlm
+R-geometry
 R-magic
+R-sem
 R-spatstat
