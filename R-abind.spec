@@ -4,7 +4,7 @@
 #
 Name     : R-abind
 Version  : 1.4.5
-Release  : 26
+Release  : 27
 URL      : https://cran.r-project.org/src/contrib/abind_1.4-5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/abind_1.4-5.tar.gz
 Summary  : Combine multidimensional arrays into a single array, a generalization of 'cbind' and 'rbind'.
