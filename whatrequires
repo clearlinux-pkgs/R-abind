@@ -6,5 +6,8 @@ R-brms
 R-car
 R-magic
 R-posterior
+R-projpred
 R-spatstat.core
+R-spatstat.explore
+R-spatstat.model
 R-spatstat.sparse
