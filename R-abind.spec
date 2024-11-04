@@ -7,7 +7,7 @@
 #
 Name     : R-abind
 Version  : 1.4.8
-Release  : 55
+Release  : 56
 URL      : https://cran.r-project.org/src/contrib/abind_1.4-8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/abind_1.4-8.tar.gz
 Summary  : Combine Multidimensional Arrays
